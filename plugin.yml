@@ -1,4 +1,5 @@
 name: BrawlTDM
+main: EnderBoxie\BrawlTDM\Main
 author: [Epicrafter60, EnderKenji]
 version: 1.0dev
 api: [2.0.0]
@@ -17,5 +18,8 @@ permissions:
   description: "Main Access of BrawlTDM"
   children:
     btdm.command.help:
-      default: false
+      default: op
       description: "Access to Help command"
+    btdm.command.create:
+      default: op
+      description: "Access to Create command"
