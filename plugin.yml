@@ -1,0 +1,21 @@
+name: BrawlTDM
+author: [Epicrafter60, EnderKenji]
+version: 1.0dev
+api: [2.0.0]
+description: "A brand new TDM minigame developed by EnderBoxie Team"
+
+command:
+ btdm:
+  default: op
+  usage: "/btdm <help|subcmd>"
+  permission: btdm.command
+  description: "Main command of BrawlTDM"
+
+permissions:
+ btdm.command:
+  default: op
+  description: "Main Access of BrawlTDM"
+  children:
+    btdm.command.help:
+      default: false
+      description: "Access to Help command"
