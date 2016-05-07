@@ -1,16 +1,18 @@
 # BrawlTDM
 
-A brand new TeamDeathMatch minigame.
+A brand new TDM minigame plugin. Its kinda BrawlPVP + TDM :P
 
-###### TODO:
-[] Commands
- [] Help
- [] Create
- [] Join & Quit
-[] Config.yml
-[] Different spawnpoints in one team
+######WIP Plugin
 
-###### Contributors:
+##### TODO:
+[ ] Commands
+ * [ ] Help
+ * [ ] Create
+ * [ ] Join & Quit
+[ ] Config.yml
+[ ] Different spawnpoints in one team
+
+##### Contributors:
 * @Epicrafter60
 * @EnderKenji
 
