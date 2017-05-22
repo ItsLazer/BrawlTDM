@@ -2,7 +2,7 @@
 
 A brand new TDM minigame plugin. Its kinda BrawlPVP + TDM :P
 
-######WIP Plugin
+###### WIP Plugin
 
 ##### TODO:
 * [ ] Commands
